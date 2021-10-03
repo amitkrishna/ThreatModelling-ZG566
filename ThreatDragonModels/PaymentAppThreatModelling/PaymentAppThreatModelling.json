@@ -1,0 +1,22 @@
+{
+  "summary": {
+    "title": "PaymentAppThreatModelling",
+    "owner": "amitkrishna",
+    "description": "Threat  Modelling"
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "Sreevishnu"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "PayTM DFD Diagram",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "amitkrishna"
+  }
+}
