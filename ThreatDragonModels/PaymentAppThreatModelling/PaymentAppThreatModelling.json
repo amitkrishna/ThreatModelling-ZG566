@@ -24,8 +24,8 @@
                 "height": 100
               },
               "position": {
-                "x": 50,
-                "y": 50
+                "x": 330,
+                "y": 130
               },
               "angle": 0,
               "id": "58c3d4da-af88-41c8-b47b-963e77902403",
@@ -36,7 +36,7 @@
                   "class": "element-shape hasNoOpenThreats isInScope"
                 },
                 "text": {
-                  "text": "process 0"
+                  "text": "Login to\nsystem"
                 },
                 ".element-text": {
                   "class": "element-text hasNoOpenThreats isInScope"
@@ -46,8 +46,8 @@
           ]
         },
         "size": {
-          "height": 590,
-          "width": 790
+          "height": 1129.9609375,
+          "width": 1249.5625
         }
       }
     ],
